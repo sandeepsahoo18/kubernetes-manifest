@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello-run
-        image: 798644228695.dkr.ecr.ap-south-1.amazonaws.com/hello-run:1
+        image: 798644228695.dkr.ecr.ap-south-1.amazonaws.com/hello-run:3
         ports:
         - containerPort: 80
